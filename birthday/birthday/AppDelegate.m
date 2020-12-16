@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  birthday
 //
-//  Created by atoz on 2020/12/16.
+//  Created by atoz on 2020/12/17.
 //
 
 #import "AppDelegate.h"
